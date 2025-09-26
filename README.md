@@ -4,7 +4,9 @@ https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
 
 Kurze Beschreibung des Projektes:
 
-Entwicklungsplattform:
+Entwicklungsplattform: windows 11
+
+Hab 1x clone ausgeführt ändere Readme und pushe Daten zurück
 
 Lessons Learned:
 + Anlegen GitRepo mit gitignore und readme
