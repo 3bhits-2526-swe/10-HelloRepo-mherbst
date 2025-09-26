@@ -14,4 +14,6 @@ Lessons Learned:
 + Basic Workflow git <-> GitHub
 
 
-Hallo Test
+     Aenderungen durchgefuehrt
+
+  
