@@ -12,3 +12,6 @@ Jetzt möchte ich die onlineänderung lokal haben
 Lessons Learned:
 + Anlegen GitRepo mit gitignore und readme
 + Basic Workflow git <-> GitHub
+
+
+Hallo Test
